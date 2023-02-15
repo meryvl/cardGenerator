@@ -1,1 +1,43 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: green;
+  background-image: url("https://i.pinimg.com/736x/ef/b8/7a/efb87addb2cff78a5473bf039824988b.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.red {
+  color: red;
+}
+
+#palo {
+  font-size: 30px;
+}
+
+#valor {
+  font-size: 60px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+#palo2 {
+  font-size: 30px;
+  float: right;
+}
+
+.card-heart {
+  margin-top: 60%;
+  background-color: white;
+  border: solid 1px;
+  border-radius: 5px;
+  height: 190px;
+  width: 150px;
+}
+button {
+  margin-top: 20px;
+  width: 150px;
+}
