@@ -14,7 +14,7 @@ body {
   color: red;
 }
 
-#palo {
+#suit {
   font-size: 30px;
 }
 
@@ -24,7 +24,7 @@ body {
   display: flex;
   align-items: center;
 }
-#palo2 {
+#suit2 {
   font-size: 30px;
   float: right;
   transform: rotate(180deg);
