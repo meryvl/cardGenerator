@@ -27,9 +27,11 @@ body {
 #palo2 {
   font-size: 30px;
   float: right;
+  transform: rotate(180deg);
+  margin-top: 10px;
 }
 
-.card-heart {
+.card {
   margin-top: 60%;
   background-color: white;
   border: solid 1px;
